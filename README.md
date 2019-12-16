@@ -1,0 +1,1 @@
+Tracking the amount of time between function calls. This can be helpful when optomizing code.
